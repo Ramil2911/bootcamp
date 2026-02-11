@@ -1,0 +1,5 @@
+scrapy
+scrapy-playwright
+pymongo
+fastapi[standard]
+pillow
